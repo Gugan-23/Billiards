@@ -1,0 +1,83 @@
+{
+  "gameMode": "pvp",
+  "gameDate": "2026-02-11T11:21:50.183Z",
+  "totalStrikes": 2,
+  "totalStrikeScore": 2,
+  "finalScores": {
+    "player1": {
+      "matchScore": 1,
+      "totalScore": 0,
+      "color": "#FF0000",
+      "totalPointsScored": 1
+    },
+    "player2": {
+      "matchScore": 1,
+      "totalScore": 0,
+      "color": "#FFFF00",
+      "isAI": false,
+      "totalPointsScored": 1
+    }
+  },
+  "strikes": [
+    {
+      "strikeNumber": 1,
+      "player": 1,
+      "ballsPocketed": [
+        {
+          "color": "red",
+          "player": 1,
+          "points": 1
+        }
+      ],
+      "strikeScore": 1,
+      "matchScoreBefore": [
+        0,
+        0
+      ],
+      "totalScoreBefore": [
+        0,
+        0
+      ],
+      "foul": false,
+      "won": false,
+      "matchScoreAfter": [
+        1,
+        0
+      ],
+      "totalScoreAfter": [
+        0,
+        0
+      ]
+    },
+    {
+      "strikeNumber": 2,
+      "player": 2,
+      "ballsPocketed": [
+        {
+          "color": "yellow",
+          "player": 2,
+          "points": 1
+        }
+      ],
+      "strikeScore": 1,
+      "matchScoreBefore": [
+        1,
+        0
+      ],
+      "totalScoreBefore": [
+        0,
+        0
+      ],
+      "foul": false,
+      "won": false,
+      "matchScoreAfter": [
+        1,
+        1
+      ],
+      "totalScoreAfter": [
+        0,
+        0
+      ]
+    }
+  ]
+}

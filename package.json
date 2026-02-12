@@ -1,0 +1,22 @@
+{
+  "name": "classic-pool-game",
+  "version": "1.0.0",
+  "description": "Classic 8-Ball Pool Game with Score Tracking",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "pool",
+    "billiards",
+    "game"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.22.1",
+    "mongodb": "^6.3.0",
+    "node-fecth": "^0.0.1-security"
+  }
+}

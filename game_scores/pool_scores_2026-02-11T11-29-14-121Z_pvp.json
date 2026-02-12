@@ -1,0 +1,208 @@
+{
+  "gameMode": "pvp",
+  "gameDate": "2026-02-11T11:29:13.987Z",
+  "totalStrikes": 6,
+  "totalStrikeScore": 7,
+  "finalScores": {
+    "player1": {
+      "matchScore": 4,
+      "totalScore": 0,
+      "color": "#FF0000",
+      "totalPointsScored": 4
+    },
+    "player2": {
+      "matchScore": 3,
+      "totalScore": 1,
+      "color": "#FFFF00",
+      "isAI": false,
+      "totalPointsScored": 3
+    }
+  },
+  "strikes": [
+    {
+      "strikeNumber": 1,
+      "player": 1,
+      "ballsPocketed": [
+        {
+          "color": "red",
+          "player": 1,
+          "points": 1
+        },
+        {
+          "color": "red",
+          "player": 1,
+          "points": 1
+        }
+      ],
+      "strikeScore": 2,
+      "matchScoreBefore": [
+        0,
+        0
+      ],
+      "totalScoreBefore": [
+        0,
+        1
+      ],
+      "foul": false,
+      "won": false,
+      "matchScoreAfter": [
+        2,
+        0
+      ],
+      "totalScoreAfter": [
+        0,
+        1
+      ]
+    },
+    {
+      "strikeNumber": 2,
+      "player": 1,
+      "ballsPocketed": [
+        {
+          "color": "red",
+          "player": 1,
+          "points": 1
+        }
+      ],
+      "strikeScore": 1,
+      "matchScoreBefore": [
+        2,
+        0
+      ],
+      "totalScoreBefore": [
+        0,
+        1
+      ],
+      "foul": false,
+      "won": false,
+      "matchScoreAfter": [
+        3,
+        0
+      ],
+      "totalScoreAfter": [
+        0,
+        1
+      ]
+    },
+    {
+      "strikeNumber": 3,
+      "player": 2,
+      "ballsPocketed": [
+        {
+          "color": "red",
+          "player": 2,
+          "points": 1
+        }
+      ],
+      "strikeScore": 1,
+      "matchScoreBefore": [
+        3,
+        0
+      ],
+      "totalScoreBefore": [
+        0,
+        1
+      ],
+      "foul": true,
+      "won": false,
+      "matchScoreAfter": [
+        4,
+        0
+      ],
+      "totalScoreAfter": [
+        0,
+        1
+      ]
+    },
+    {
+      "strikeNumber": 4,
+      "player": 1,
+      "ballsPocketed": [
+        {
+          "color": "yellow",
+          "player": 1,
+          "points": 1
+        }
+      ],
+      "strikeScore": 1,
+      "matchScoreBefore": [
+        4,
+        0
+      ],
+      "totalScoreBefore": [
+        0,
+        1
+      ],
+      "foul": true,
+      "won": false,
+      "matchScoreAfter": [
+        4,
+        1
+      ],
+      "totalScoreAfter": [
+        0,
+        1
+      ]
+    },
+    {
+      "strikeNumber": 5,
+      "player": 2,
+      "ballsPocketed": [
+        {
+          "color": "yellow",
+          "player": 2,
+          "points": 1
+        }
+      ],
+      "strikeScore": 1,
+      "matchScoreBefore": [
+        4,
+        1
+      ],
+      "totalScoreBefore": [
+        0,
+        1
+      ],
+      "foul": false,
+      "won": false,
+      "matchScoreAfter": [
+        4,
+        2
+      ],
+      "totalScoreAfter": [
+        0,
+        1
+      ]
+    },
+    {
+      "strikeNumber": 6,
+      "player": 2,
+      "ballsPocketed": [
+        {
+          "color": "yellow",
+          "player": 2,
+          "points": 1
+        }
+      ],
+      "strikeScore": 1,
+      "matchScoreBefore": [
+        4,
+        2
+      ],
+      "totalScoreBefore": [
+        0,
+        1
+      ],
+      "foul": false,
+      "won": false,
+      "matchScoreAfter": [
+        4,
+        3
+      ],
+      "totalScoreAfter": [
+        0,
+        1
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "gameMode": "pvp",
+  "gameDate": "2026-02-11T18:50:03.725Z",
+  "totalStrikes": 3,
+  "totalStrikeScore": 4,
+  "finalScores": {
+    "player1": {
+      "matchScore": 3,
+      "totalScore": 0,
+      "color": "#FFFF00",
+      "totalPointsScored": 3
+    },
+    "player2": {
+      "matchScore": 1,
+      "totalScore": 0,
+      "color": "#FF0000",
+      "isAI": false,
+      "totalPointsScored": 1
+    }
+  },
+  "strikes": [
+    {
+      "strikeNumber": 1,
+      "player": 1,
+      "ballsPocketed": [
+        {
+          "color": "yellow",
+          "player": 1,
+          "points": 1
+        },
+        {
+          "color": "red",
+          "player": 1,
+          "points": 1
+        }
+      ],
+      "strikeScore": 2,
+      "matchScoreBefore": [
+        0,
+        0
+      ],
+      "totalScoreBefore": [
+        0,
+        0
+      ],
+      "foul": true,
+      "won": false,
+      "matchScoreAfter": [
+        1,
+        1
+      ],
+      "totalScoreAfter": [
+        0,
+        0
+      ]
+    },
+    {
+      "strikeNumber": 2,
+      "player": 2,
+      "ballsPocketed": [
+        {
+          "color": "yellow",
+          "player": 2,
+          "points": 1
+        }
+      ],
+      "strikeScore": 1,
+      "matchScoreBefore": [
+        1,
+        1
+      ],
+      "totalScoreBefore": [
+        0,
+        0
+      ],
+      "foul": true,
+      "won": false,
+      "matchScoreAfter": [
+        2,
+        1
+      ],
+      "totalScoreAfter": [
+        0,
+        0
+      ]
+    },
+    {
+      "strikeNumber": 3,
+      "player": 1,
+      "ballsPocketed": [
+        {
+          "color": "yellow",
+          "player": 1,
+          "points": 1
+        }
+      ],
+      "strikeScore": 1,
+      "matchScoreBefore": [
+        2,
+        1
+      ],
+      "totalScoreBefore": [
+        0,
+        0
+      ],
+      "foul": false,
+      "won": false,
+      "matchScoreAfter": [
+        3,
+        1
+      ],
+      "totalScoreAfter": [
+        0,
+        0
+      ]
+    }
+  ]
+}

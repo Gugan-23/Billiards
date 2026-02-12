@@ -1,0 +1,99 @@
+{
+  "gameMode": "pvp",
+  "gameDate": "2026-02-11T10:53:32.712Z",
+  "totalStrikes": 3,
+  "totalStrikeScore": 1,
+  "finalScores": {
+    "player1": {
+      "matchScore": 0,
+      "totalScore": 0,
+      "totalPointsScored": 0
+    },
+    "player2": {
+      "matchScore": 0,
+      "totalScore": 1,
+      "isAI": false,
+      "totalPointsScored": 1
+    }
+  },
+  "strikes": [
+    {
+      "strikeNumber": 1,
+      "player": 1,
+      "ballsPocketed": [],
+      "strikeScore": 0,
+      "matchScoreBefore": [
+        0,
+        0
+      ],
+      "totalScoreBefore": [
+        0,
+        0
+      ],
+      "foul": true,
+      "won": false,
+      "matchScoreAfter": [
+        0,
+        0
+      ],
+      "totalScoreAfter": [
+        0,
+        0
+      ]
+    },
+    {
+      "strikeNumber": 2,
+      "player": 2,
+      "ballsPocketed": [
+        {
+          "color": "red",
+          "player": 2,
+          "points": 1
+        }
+      ],
+      "strikeScore": 1,
+      "matchScoreBefore": [
+        0,
+        0
+      ],
+      "totalScoreBefore": [
+        0,
+        0
+      ],
+      "foul": false,
+      "won": false,
+      "matchScoreAfter": [
+        0,
+        1
+      ],
+      "totalScoreAfter": [
+        0,
+        0
+      ]
+    },
+    {
+      "strikeNumber": 3,
+      "player": 1,
+      "ballsPocketed": [],
+      "strikeScore": 0,
+      "matchScoreBefore": [
+        0,
+        1
+      ],
+      "totalScoreBefore": [
+        0,
+        0
+      ],
+      "foul": true,
+      "won": true,
+      "matchScoreAfter": [
+        0,
+        1
+      ],
+      "totalScoreAfter": [
+        0,
+        1
+      ]
+    }
+  ]
+}
